@@ -4,7 +4,7 @@ import org.junit.Test;
 public class ExerciseTest extends TestCase  {
 
     /**
-     * Tests if method extractUpperAndSpecial returns every Nth character from that text that is uppercase
+     * Tests if method extractUpperAndSpecial returns every Nth character from that text that is uppercase or special character.
      */
     @Test
     public void testExtractUpperAndSpecial(){
